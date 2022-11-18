@@ -21,4 +21,6 @@ python script.py -i test.jpg -c yolov3.cfg -w yolov3.weights -cl yolov3.txt
 ## Result 
 An image named object-detection.jpg will be created in the same folder with boxes around the objects detected in the image (image added here to match output).
 
+Note- Assumed operating system is windows.
+
 #### Keep working👍 Keep grinding💪 Thank You✌️
